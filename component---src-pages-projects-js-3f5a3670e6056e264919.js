@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{"16l3":function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),l=a.n(n),r=a("Bl7J"),s=a("vrFN");t.default=function(){return l.a.createElement(r.a,null,l.a.createElement(s.a,{title:"Projects"}),l.a.createElement("h2",null,"Projects"),l.a.createElement("i",{className:"fas fa-brush"})," ",l.a.createElement("span",{style:{marginLeft:"10px"}}," Coming soon... "))}}}]);
+//# sourceMappingURL=component---src-pages-projects-js-3f5a3670e6056e264919.js.map
