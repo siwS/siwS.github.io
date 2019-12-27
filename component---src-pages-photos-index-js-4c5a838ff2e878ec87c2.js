@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{T26x:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),o=(n("NUU4"),n("vrFN")),r=n("Bl7J"),c=n("/gJO");t.default=function(){return l.a.createElement(r.a,null,l.a.createElement(o.a,{title:"Photos"}),l.a.createElement("h2",null,"Photos"),l.a.createElement(c.a,null))}}}]);
+//# sourceMappingURL=component---src-pages-photos-index-js-4c5a838ff2e878ec87c2.js.map
